@@ -1,6 +1,6 @@
 # TRABALHO 3
 
-## Thiago Gabriel   Matrícula: 17105760072
+## Thiago Gabriel / Matrícula: 17105760072
 
 A new Flutter application.
 
